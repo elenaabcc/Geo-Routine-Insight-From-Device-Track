@@ -5,6 +5,7 @@ This project visualizes GPS data using a web-based interactive map. It leverages
 ![Screen of the Maps](./img_readme/screen_maps_results.png)
 ## How to create a Basic Map
 
+
 1. **Map Creation**:
    ```python
    m = folium.Map(location=[routine_df['lat'].mean(), routine_df['lon'].mean()], zoom_start=12)
