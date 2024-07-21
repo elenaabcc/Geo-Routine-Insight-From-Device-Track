@@ -2,6 +2,7 @@
 
 This project visualizes GPS data using a web-based interactive map. It leverages the `folium` library to display GPS points, draw routes, and indicate movement direction with arrows.
 
+![Screen of the Maps](./img_readme/screen_maps_results.png)
 ## How to create a Basic Map
 
 1. **Map Creation**:
